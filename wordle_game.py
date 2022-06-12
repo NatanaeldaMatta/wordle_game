@@ -1,4 +1,3 @@
-#https://byui-cse.github.io/cse110-course/lesson07/prove.html
 import random
 
 #START
